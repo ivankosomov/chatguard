@@ -13,5 +13,7 @@ Metin Kanallarınızı en iyi şekilde reklamlardan, spam içeriklerinden koruyu
 8) Tokenini girmiş olduğunuz bot sunucuda ekliyse çalışmaya başlayacaktır.
 
 Encoded : Astpod
+
 Discord ID : 419863448814616576
+
 Github : https://github.com/Astpod
