@@ -1,0 +1,13 @@
+{
+  "owner": ["ID"],
+  "token":"",
+  "mongoURL": "",
+  "status": "FK",
+  "sesKanalı": "",
+  "genelchat": "",
+  "evetemoji": "",
+  "warnLimit": 5,
+  "mutedrole": [],
+  "duration": 600000,
+  "limit": 8
+}
