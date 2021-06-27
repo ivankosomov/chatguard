@@ -13,4 +13,5 @@ Metin Kanallarınızı en iyi şekilde reklamlardan, spam içeriklerinden koruyu
 8) Tokenini girmiş olduğunuz bot sunucuda ekliyse çalışmaya başlayacaktır.
 
 Bot hakkında sorularınız için : FK#7722
+
 Hak sahibi : Astpod
