@@ -11,7 +11,3 @@ Metin Kanallarınızı en iyi şekilde reklamlardan, spam içeriklerinden koruyu
 6) Dizayn ettiğiniz config.json dosyasını kaydedip kapatın.
 7) Klasörün içinde bulunan `baslat.bat` uzantılı _batch_ dosyasını açın.
 8) Tokenini girmiş olduğunuz bot sunucuda ekliyse çalışmaya başlayacaktır.
-
-Bot hakkında sorularınız için : FK#7722
-
-Hak sahibi : Astpod
